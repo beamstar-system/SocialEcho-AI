@@ -1,0 +1,5 @@
+{
+  "name": "SocialEcho AI",
+  "description": "Cross-platform social media content generator powered by Gemini 2.5 and 3 Pro models. Generates tailored text and images for LinkedIn, X/Twitter, and Instagram.",
+  "requestFramePermissions": []
+}
